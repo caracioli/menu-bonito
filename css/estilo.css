@@ -1,0 +1,30 @@
+
+button {
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    font-weight: bolder;
+    background-color: rgb(110, 6, 6);
+    color: azure;
+    border: 1px outset #ccc;
+}
+
+button:hover{
+    background-color: rgb(247, 243, 3);
+    box-shadow: 5px 5px 10px #aaa;
+}
+
+.navi{
+    margin: 20px 50px;
+}
+
+
+.navi form {
+    display: flex;
+    justify-content: center;
+}
+
+.navi form div {
+    padding: 15px 30px;
+    
+}
